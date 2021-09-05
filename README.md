@@ -3,20 +3,20 @@
 ဒီ CSS Flexbox လမ်းညွှန်မှာ CSS ရဲ့ Flex Container, Flex Items, သူတို့ရဲ့ Properties & Values, သူတို့အလုပ်လုပ်ပုံတွေကို လေ့လာနိုင်ပါတယ်။
 
 #### Flex Container
-- [flex-direction](https://github.com/mrminnkhantnaing/css-flexbox/new/main?readme=1#flex-direction-container)
-- [flex-wrap](https://github.com/mrminnkhantnaing/css-flexbox/new/main?readme=1#flex-wrap-container)
-- [flex-flow](https://github.com/mrminnkhantnaing/css-flexbox/new/main?readme=1#flex-flow-container)
-- [justify-content](https://github.com/mrminnkhantnaing/css-flexbox/new/main?readme=1#justify-content-container)
-- [align-items](https://github.com/mrminnkhantnaing/css-flexbox/new/main?readme=1#align-items-container)
-- [align-content](https://github.com/mrminnkhantnaing/css-flexbox/new/main?readme=1#align-content-container)
+- [flex-direction](https://github.com/mrminnkhantnaing/css-flexbox/tree/main#flex-direction-container)
+- [flex-wrap](https://github.com/mrminnkhantnaing/css-flexbox/tree/main#flex-wrap-container)
+- [flex-flow](https://github.com/mrminnkhantnaing/css-flexbox/tree/main#flex-flow-container)
+- [justify-content](https://github.com/mrminnkhantnaing/css-flexbox/tree/main#justify-content-container)
+- [align-items](https://github.com/mrminnkhantnaing/css-flexbox/tree/main#align-items-container)
+- [align-content](https://github.com/mrminnkhantnaing/css-flexbox/tree/main#align-content-container)
 
 #### Flex Items
-- [order](https://github.com/mrminnkhantnaing/css-flexbox/new/main?readme=1#order-items)
-- [flex-grow](https://github.com/mrminnkhantnaing/css-flexbox/new/main?readme=1#flex-grow-items)
-- [flex-shrink](https://github.com/mrminnkhantnaing/css-flexbox/new/main?readme=1#flex-shrink-items)
-- [flex-basis](https://github.com/mrminnkhantnaing/css-flexbox/new/main?readme=1#flex-basis-items)
-- [flex](https://github.com/mrminnkhantnaing/css-flexbox/new/main?readme=1#flex-items-1)
-- [align-self](https://github.com/mrminnkhantnaing/css-flexbox/new/main?readme=1#align-self-items)
+- [order](https://github.com/mrminnkhantnaing/css-flexbox/tree/main#order-items)
+- [flex-grow](https://github.com/mrminnkhantnaing/css-flexbox/tree/main#flex-grow-items)
+- [flex-shrink](https://github.com/mrminnkhantnaing/css-flexbox/tree/main#flex-shrink-items)
+- [flex-basis](https://github.com/mrminnkhantnaing/css-flexbox/tree/main#flex-basis-items)
+- [flex](https://github.com/mrminnkhantnaing/css-flexbox/tree/main#flex-items-1)
+- [align-self](https://github.com/mrminnkhantnaing/css-flexbox/tree/main#align-self-items)
 
 ---
 
